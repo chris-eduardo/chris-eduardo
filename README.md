@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @chris-eduardo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chris-eduardo/chris-eduardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## Recursos online
 Editor MD [https://pandao.github.io/editor.md](https://pandao.github.io/editor.md/examples/simple.html)
+
+## Documentación
+Html CSS (https://caniuse.com/)
